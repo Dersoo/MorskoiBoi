@@ -1,0 +1,2 @@
+# MorskoiBoi
+C++ console game
